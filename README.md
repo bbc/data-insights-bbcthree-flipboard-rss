@@ -1,2 +1,2 @@
 # data-insights-bbcthree-flipboard-rss
-RSS Feed builder from scraping the BBC Three homepage
+This python script scrapes the BBC Three homepage for links and exports these items as an XML feed fit for ingestion into Flipboard.
